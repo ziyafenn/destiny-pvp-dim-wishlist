@@ -1,0 +1,196 @@
+title:PVP
+
+// The Martlet (pvp)
+//notes: tags:pvp
+dimwishlist:item=877384&perks=
+
+
+// Felwinter's Lie (pvp)
+//notes: tags:pvp
+dimwishlist:item=218787950&perks=
+
+
+// Imperial Decree (pvp)
+//notes: tags:pvp
+dimwishlist:item=318443586&perks=
+
+
+// Qua Vinctus IV (pvp)
+//notes: tags:pvp
+dimwishlist:item=337893613&perks=
+
+
+// Drang (pvp)
+//notes: tags:pvp
+dimwishlist:item=358190158&perks=
+
+
+// Precipial (pvp)
+//notes: tags:pvp
+dimwishlist:item=367772693&perks=
+
+
+// Redrix's Estoc (pvp)
+//notes: tags:pvp
+dimwishlist:item=747743636&perks=
+
+
+// Burden of Guilt ()
+dimwishlist:item=976459525&perks=
+
+
+// Rose (pvp)
+//notes: tags:pvp
+dimwishlist:item=1041028434&perks=
+
+
+// The Inquisitor (pvp)
+//notes: tags:pvp
+dimwishlist:item=1185633760&perks=
+
+
+// Hawthorne's Field-Forged Shotgun (pvp)
+//notes: tags:pvp
+dimwishlist:item=1402874079&perks=
+
+
+// M-17 "Fast Talker" (pvp)
+//notes: tags:pvp
+dimwishlist:item=1419158093&perks=
+
+
+// Matador 64 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1518956169&perks=
+
+
+// Forgiveness (pvp)
+//notes: tags:pvp
+dimwishlist:item=1552443158&perks=
+
+
+// Crimil's Dagger (pvp)
+//notes: tags:pvp
+dimwishlist:item=1617917863&perks=
+
+
+// Prophet of Doom (pvp)
+//notes: tags:pvp
+dimwishlist:item=2145441168&perks=
+
+
+// Corundum Hammer (pvp)
+//notes: tags:pvp
+dimwishlist:item=2263462407&perks=
+
+
+// Astral Horizon (pvp)
+//notes: tags:pvp
+dimwishlist:item=2269779982&perks=
+
+
+// Reghusk's Pledge (pvp)
+//notes: tags:pvp
+dimwishlist:item=2370525224&perks=
+
+
+// MIDA Macro-Tool (pvp)
+//notes: tags:pvp
+dimwishlist:item=2699423382&perks=
+
+
+// BxR-55 Battler (pvp)
+//notes: tags:pvp
+dimwishlist:item=2708806099&perks=
+
+
+// Igneous Hammer (pvp)
+//notes: tags:pvp
+dimwishlist:item=2776092652&perks=
+
+
+// Compact Defender (pvp)
+//notes: tags:pvp
+dimwishlist:item=2819552809&perks=
+
+
+// Everburning Glitz (pvp)
+//notes: tags:pvp
+dimwishlist:item=2857870254&perks=
+
+
+// The Immortal (pvp)
+//notes: tags:pvp
+dimwishlist:item=2872063099&perks=
+
+
+// Austringer (pvp)
+//notes: tags:pvp
+dimwishlist:item=3055790362&perks=
+
+
+// Beloved (pvp)
+//notes: tags:pvp
+dimwishlist:item=3107853529&perks=
+
+
+// Modified B-7 Pistol (pvp)
+//notes: tags:pvp
+dimwishlist:item=3146657388&perks=
+
+
+// Someday (pvp)
+//notes: tags:pvp
+dimwishlist:item=3232203524&perks=
+
+
+// Unwavering Duty (pvp)
+//notes: tags:pvp
+dimwishlist:item=3489054606&perks=
+
+
+// Aisha's Care (pvp)
+//notes: tags:pvp
+dimwishlist:item=3614211586&perks=
+
+
+// Cataphract GL3 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3805679279&perks=
+
+
+// Last Thursday (pvp)
+//notes: tags:pvp
+dimwishlist:item=3813721211&perks=
+
+
+// Deadlock (pvp)
+//notes: tags:pvp
+dimwishlist:item=3926987546&perks=
+
+
+// Aureus Neutralizer (pvp)
+//notes: tags:pvp
+dimwishlist:item=3981920134&perks=
+
+
+// All or Nothing (pvp)
+//notes: tags:pvp
+dimwishlist:item=3984776322&perks=
+
+
+// Solemn Remembrance (pvp)
+//notes: tags:pvp
+dimwishlist:item=4116518582&perks=
+
+
+// Mos Athanor IV (pvp)
+//notes: tags:pvp
+dimwishlist:item=4118334987&perks=
+
+
+// Mos Athanor IV (pvp)
+//notes: tags:pvp
+dimwishlist:item=4118334987&perks=
+
+
