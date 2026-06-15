@@ -44,11 +44,6 @@ dimwishlist:item=976459525&perks=
 dimwishlist:item=1041028434&perks=
 
 
-// The Inquisitor (pvp)
-//notes: tags:pvp
-dimwishlist:item=1185633760&perks=
-
-
 // Hawthorne's Field-Forged Shotgun (pvp)
 //notes: tags:pvp
 dimwishlist:item=1402874079&perks=
@@ -89,6 +84,21 @@ dimwishlist:item=2263462407&perks=
 dimwishlist:item=2269779982&perks=
 
 
+// Riptide (pvp)
+//notes: tags:pvp
+dimwishlist:item=2297554989&perks=
+
+
+// Igneous Hammer (Adept) (pvp)
+//notes: tags:pvp
+dimwishlist:item=2314610827&perks=
+
+
+// The Inquisitor (Adept) (pvp)
+//notes: tags:pvp
+dimwishlist:item=2330860573&perks=
+
+
 // Reghusk's Pledge (pvp)
 //notes: tags:pvp
 dimwishlist:item=2370525224&perks=
@@ -104,9 +114,9 @@ dimwishlist:item=2699423382&perks=
 dimwishlist:item=2708806099&perks=
 
 
-// Igneous Hammer (pvp)
+// Zealot's Reward (pvp)
 //notes: tags:pvp
-dimwishlist:item=2776092652&perks=
+dimwishlist:item=2720651699&perks=
 
 
 // Compact Defender (pvp)
@@ -122,6 +132,11 @@ dimwishlist:item=2857870254&perks=
 // The Immortal (pvp)
 //notes: tags:pvp
 dimwishlist:item=2872063099&perks=
+
+
+// High Tyrant (pvp)
+//notes: tags:pvp
+dimwishlist:item=2873508409&perks=
 
 
 // Austringer (pvp)
@@ -177,6 +192,11 @@ dimwishlist:item=3981920134&perks=
 // All or Nothing (pvp)
 //notes: tags:pvp
 dimwishlist:item=3984776322&perks=
+
+
+// Conspiracy Honed (pvp)
+//notes: tags:pvp
+dimwishlist:item=4062069077&perks=
 
 
 // Solemn Remembrance (pvp)
