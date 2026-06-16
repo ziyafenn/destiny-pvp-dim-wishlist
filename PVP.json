@@ -1,0 +1,499 @@
+{
+    "description": "Wishlist is based on popularity of weapons in season 29 taken from light.gg loadout analytics. Doesn't account for desired perks. Use light.gg roll appraiser for that.",
+    "name": "PVP based on popularity",
+    "data": [
+        {
+            "description": "",
+            "hash": 877384,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1041028434,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2699423382,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1402874079,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3805679279,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2269779982,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1518956169,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 747743636,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 218787950,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1419158093,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2872063099,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3489054606,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3981920134,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2263462407,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 367772693,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2708806099,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4116518582,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1617917863,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 337893613,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3926987546,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3232203524,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3107853529,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2857870254,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2819552809,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2145441168,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3813721211,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3055790362,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3614211586,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3146657388,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2370525224,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 318443586,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 358190158,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1552443158,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3984776322,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 976459525,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 4062069077,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2297554989,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2720651699,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2314610827,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2330860573,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2873508409,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2993995118,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 386864872,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1288422452,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 334964261,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 810474119,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1185633760,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1041028435,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 891765152,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2499834165,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 851296754,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1705150753,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3215649176,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1872906663,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3709368142,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVP"
+            ]
+        }
+    ]
+}

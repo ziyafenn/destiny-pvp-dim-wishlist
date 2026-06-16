@@ -1,4 +1,6 @@
-title:PVP
+title: PVP based on popularity
+description: Wishlist is based on popularity of weapons in season 29 taken from light.gg loadout analytics. Doesn't account for desired perks. Use light.gg roll appraiser for that.
+
 
 // The Martlet (pvp)
 //notes: tags:pvp
@@ -13,6 +15,11 @@ dimwishlist:item=218787950&perks=
 // Imperial Decree (pvp)
 //notes: tags:pvp
 dimwishlist:item=318443586&perks=
+
+
+// Kindled Orchid (pvp)
+//notes: tags:pvp
+dimwishlist:item=334964261&perks=
 
 
 // Qua Vinctus IV (pvp)
@@ -30,9 +37,29 @@ dimwishlist:item=358190158&perks=
 dimwishlist:item=367772693&perks=
 
 
+// Eyasluna (pvp)
+//notes: tags:pvp
+dimwishlist:item=386864872&perks=
+
+
 // Redrix's Estoc (pvp)
 //notes: tags:pvp
 dimwishlist:item=747743636&perks=
+
+
+// Spare Rations (pvp)
+//notes: tags:pvp
+dimwishlist:item=810474119&perks=
+
+
+// Found Verdict (Timelost) (pvp)
+//notes: tags:pvp
+dimwishlist:item=851296754&perks=
+
+
+// Adored (pvp)
+//notes: tags:pvp
+dimwishlist:item=891765152&perks=
 
 
 // Burden of Guilt ()
@@ -42,6 +69,21 @@ dimwishlist:item=976459525&perks=
 // Rose (pvp)
 //notes: tags:pvp
 dimwishlist:item=1041028434&perks=
+
+
+// Solemn Lie (pvp)
+//notes: tags:pvp
+dimwishlist:item=1041028435&perks=
+
+
+// The Inquisitor (pvp)
+//notes: tags:pvp
+dimwishlist:item=1185633760&perks=
+
+
+// Mos Athanor IV (pvp)
+//notes: tags:pvp
+dimwishlist:item=1288422452&perks=
 
 
 // Hawthorne's Field-Forged Shotgun (pvp)
@@ -67,6 +109,16 @@ dimwishlist:item=1552443158&perks=
 // Crimil's Dagger (pvp)
 //notes: tags:pvp
 dimwishlist:item=1617917863&perks=
+
+
+// Something New (pvp)
+//notes: tags:pvp
+dimwishlist:item=1705150753&perks=
+
+
+// Modified B-7 Pistol (pvp)
+//notes: tags:pvp
+dimwishlist:item=1872906663&perks=
 
 
 // Prophet of Doom (pvp)
@@ -104,6 +156,11 @@ dimwishlist:item=2330860573&perks=
 dimwishlist:item=2370525224&perks=
 
 
+// Eye of Sol (pvp)
+//notes: tags:pvp
+dimwishlist:item=2499834165&perks=
+
+
 // MIDA Macro-Tool (pvp)
 //notes: tags:pvp
 dimwishlist:item=2699423382&perks=
@@ -139,6 +196,11 @@ dimwishlist:item=2872063099&perks=
 dimwishlist:item=2873508409&perks=
 
 
+// Fractethyst (pvp)
+//notes: tags:pvp
+dimwishlist:item=2993995118&perks=
+
+
 // Austringer (pvp)
 //notes: tags:pvp
 dimwishlist:item=3055790362&perks=
@@ -154,6 +216,11 @@ dimwishlist:item=3107853529&perks=
 dimwishlist:item=3146657388&perks=
 
 
+// The Helmsman (pvp)
+//notes: tags:pvp
+dimwishlist:item=3215649176&perks=
+
+
 // Someday (pvp)
 //notes: tags:pvp
 dimwishlist:item=3232203524&perks=
@@ -167,6 +234,11 @@ dimwishlist:item=3489054606&perks=
 // Aisha's Care (pvp)
 //notes: tags:pvp
 dimwishlist:item=3614211586&perks=
+
+
+// Aisha's Embrace (pvp)
+//notes: tags:pvp
+dimwishlist:item=3709368142&perks=
 
 
 // Cataphract GL3 (pvp)
@@ -202,15 +274,5 @@ dimwishlist:item=4062069077&perks=
 // Solemn Remembrance (pvp)
 //notes: tags:pvp
 dimwishlist:item=4116518582&perks=
-
-
-// Mos Athanor IV (pvp)
-//notes: tags:pvp
-dimwishlist:item=4118334987&perks=
-
-
-// Mos Athanor IV (pvp)
-//notes: tags:pvp
-dimwishlist:item=4118334987&perks=
 
 
