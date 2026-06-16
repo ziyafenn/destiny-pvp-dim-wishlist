@@ -1,6 +1,7 @@
-title: PVP based on popularity
-description: Wishlist is based on popularity of weapons in season 29 taken from light.gg loadout analytics. Doesn't account for desired perks. Use light.gg roll appraiser for that.
 
+title:PVP based on popularity
+
+description:Wishlist is based on popularity of weapons in season 29 taken from light.gg loadout analytics. Doesn't account for desired perks. Use light.gg roll appraiser for that.
 
 // The Martlet (pvp)
 //notes: tags:pvp
@@ -10,6 +11,11 @@ dimwishlist:item=877384&perks=
 // Felwinter's Lie (pvp)
 //notes: tags:pvp
 dimwishlist:item=218787950&perks=
+
+
+// Turncoat (pvp)
+//notes: tags:pvp
+dimwishlist:item=253843484&perks=
 
 
 // Imperial Decree (pvp)
@@ -27,6 +33,11 @@ dimwishlist:item=334964261&perks=
 dimwishlist:item=337893613&perks=
 
 
+// Ace of Spades (pvp)
+//notes: tags:pvp
+dimwishlist:item=347366834&perks=
+
+
 // Drang (pvp)
 //notes: tags:pvp
 dimwishlist:item=358190158&perks=
@@ -40,6 +51,16 @@ dimwishlist:item=367772693&perks=
 // Eyasluna (pvp)
 //notes: tags:pvp
 dimwishlist:item=386864872&perks=
+
+
+// Outbreak Perfected (pvp)
+//notes: tags:pvp
+dimwishlist:item=400096939&perks=
+
+
+// Graviton Spike (pvp)
+//notes: tags:pvp
+dimwishlist:item=648595258&perks=
 
 
 // Redrix's Estoc (pvp)
@@ -81,9 +102,24 @@ dimwishlist:item=1041028435&perks=
 dimwishlist:item=1185633760&perks=
 
 
+// Truth (pvp)
+//notes: tags:pvp
+dimwishlist:item=1201830623&perks=
+
+
 // Mos Athanor IV (pvp)
 //notes: tags:pvp
 dimwishlist:item=1288422452&perks=
+
+
+// Gjallarhorn (pvp)
+//notes: tags:pvp
+dimwishlist:item=1363886209&perks=
+
+
+// The Last Word (pvp)
+//notes: tags:pvp
+dimwishlist:item=1364093401&perks=
 
 
 // Hawthorne's Field-Forged Shotgun (pvp)
@@ -161,6 +197,11 @@ dimwishlist:item=2370525224&perks=
 dimwishlist:item=2499834165&perks=
 
 
+// Cloudstrike (pvp)
+//notes: tags:pvp
+dimwishlist:item=2603483885&perks=
+
+
 // MIDA Macro-Tool (pvp)
 //notes: tags:pvp
 dimwishlist:item=2699423382&perks=
@@ -226,9 +267,29 @@ dimwishlist:item=3215649176&perks=
 dimwishlist:item=3232203524&perks=
 
 
+// Conditional Finality (pvp)
+//notes: tags:pvp
+dimwishlist:item=3371017761&perks=
+
+
+// The Chaperone (pvp)
+//notes: tags:pvp
+dimwishlist:item=3413860062&perks=
+
+
+// Duality (pvp)
+//notes: tags:pvp
+dimwishlist:item=3460576091&perks=
+
+
 // Unwavering Duty (pvp)
 //notes: tags:pvp
 dimwishlist:item=3489054606&perks=
+
+
+// Legend of Acrius (pvp)
+//notes: tags:pvp
+dimwishlist:item=3580904580&perks=
 
 
 // Aisha's Care (pvp)
@@ -241,6 +302,11 @@ dimwishlist:item=3614211586&perks=
 dimwishlist:item=3709368142&perks=
 
 
+// Black Talon (pvp)
+//notes: tags:pvp
+dimwishlist:item=3766045777&perks=
+
+
 // Cataphract GL3 (pvp)
 //notes: tags:pvp
 dimwishlist:item=3805679279&perks=
@@ -251,9 +317,24 @@ dimwishlist:item=3805679279&perks=
 dimwishlist:item=3813721211&perks=
 
 
+// The Jade Rabbit (pvp)
+//notes: tags:pvp
+dimwishlist:item=3844694310&perks=
+
+
+// Hawkmoon (pvp)
+//notes: tags:pvp
+dimwishlist:item=3856705927&perks=
+
+
 // Deadlock (pvp)
 //notes: tags:pvp
 dimwishlist:item=3926987546&perks=
+
+
+// Thorn (pvp)
+//notes: tags:pvp
+dimwishlist:item=3973202132&perks=
 
 
 // Aureus Neutralizer (pvp)
@@ -274,5 +355,20 @@ dimwishlist:item=4062069077&perks=
 // Solemn Remembrance (pvp)
 //notes: tags:pvp
 dimwishlist:item=4116518582&perks=
+
+
+// Khvostov 7G-0X (pvp)
+//notes: tags:pvp
+dimwishlist:item=4129629253&perks=
+
+
+// Service of Luzaku (pvp)
+//notes: tags:pvp
+dimwishlist:item=4284533075&perks=
+
+
+// Vex Mythoclast (pvp)
+//notes: tags:pvp
+dimwishlist:item=4289226715&perks=
 
 
